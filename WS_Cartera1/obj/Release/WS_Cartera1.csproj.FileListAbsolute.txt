@@ -1,0 +1,14 @@
+C:\proyectos\WS_Cartera1\WS_Cartera1\bin\WS_Cartera1.dll.config
+C:\proyectos\WS_Cartera1\WS_Cartera1\bin\WS_Cartera1.dll
+C:\proyectos\WS_Cartera1\WS_Cartera1\bin\WS_Cartera1.pdb
+C:\proyectos\WS_Cartera1\WS_Cartera1\obj\Release\WS_Cartera1.csprojResolveAssemblyReference.cache
+C:\proyectos\WS_Cartera1\WS_Cartera1\obj\Release\WS_Cartera1.dll
+C:\proyectos\WS_Cartera1\WS_Cartera1\obj\Release\WS_Cartera1.pdb
+C:\proyectos\WS_Cartera1\WS_Cartera1\bin\Newtonsoft.Json.dll
+C:\proyectos\WS_Cartera1\WS_Cartera1\bin\System.Net.Http.Formatting.dll
+C:\proyectos\WS_Cartera1\WS_Cartera1\bin\System.Web.Http.dll
+C:\proyectos\WS_Cartera1\WS_Cartera1\bin\System.Web.Http.WebHost.dll
+C:\proyectos\WS_Cartera1\WS_Cartera1\bin\Newtonsoft.Json.xml
+C:\proyectos\WS_Cartera1\WS_Cartera1\bin\System.Net.Http.Formatting.xml
+C:\proyectos\WS_Cartera1\WS_Cartera1\bin\System.Web.Http.xml
+C:\proyectos\WS_Cartera1\WS_Cartera1\bin\System.Web.Http.WebHost.xml
